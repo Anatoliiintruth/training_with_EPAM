@@ -1,2 +1,3 @@
 Hello, what do you do with that?
 The second commitions of the file in the browser.
+The third changes and using GUI for commiting.
